@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -i ../*.html /tmp
+cp -u .html
